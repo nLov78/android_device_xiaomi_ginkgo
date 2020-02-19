@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 
-DEVICE_PATH := device/xiaomi/ginkgo
+DEVICE_PATH := device/xiaomi/willow
 
 # Architecture
 TARGET_ARCH := arm64
