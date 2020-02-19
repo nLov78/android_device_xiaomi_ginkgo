@@ -32,7 +32,7 @@ repo sync
 Then add these projects to .repo/manifest.xml:
 
 ```xml
-<project path="device/xiaomi/willow" name="mauronofrio/android_device_xiaomi_willow" remote="github" revision="android-9.0" />
+<project path="device/xiaomi/willow" name="nLov78/android_device_xiaomi_willow" remote="github" revision="android-9.0" />
 ```
 
 Finally execute these:
